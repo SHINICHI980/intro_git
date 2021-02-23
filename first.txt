@@ -4,3 +4,4 @@ add2
 git_add
 git_rm
 git status
+git diff
