@@ -1,3 +1,4 @@
 Git練習
 add
 add2
+git_add
